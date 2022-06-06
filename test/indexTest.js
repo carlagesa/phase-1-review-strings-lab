@@ -1,3 +1,4 @@
+
 describe('index.js', () => {
   describe('currentUser', () => {
     it('is defined', () => {
